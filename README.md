@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Olá, meu nome é Karyna! 👋
+## 🌱 Estou atualmente aprendendo Técnico em Desenvolvimento de Sistemas
+## 😄 Pronouns: Ela/Dela
 <!--
 **KarynaC-reate/KarynaC-reate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
