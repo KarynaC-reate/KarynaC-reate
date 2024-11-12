@@ -1,6 +1,9 @@
 ## Olá, meu nome é Karyna! 👋
 ## 🌱 Estou atualmente aprendendo Técnico em Desenvolvimento de Sistemas
 ## 😄 Pronouns: Ela/Dela
+
+https://www.canva.com/design/DAGWRn-W-98/247FW4zCfPkG9HGskZkPVw/watch?utm_content=DAGWRn-W-98&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
+
 <!--
 **KarynaC-reate/KarynaC-reate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
