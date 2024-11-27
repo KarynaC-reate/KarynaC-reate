@@ -1,3 +1,6 @@
+<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/bbbda1e6-97ec-464c-93c1-6e1886c956b9">
+
+#
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0066FF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
@@ -8,9 +11,6 @@
 
 #
 <p align="center">Estudante de Técnico de Desenvolvimento de Sistemas - SENAI
-
-#
-<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/bbbda1e6-97ec-464c-93c1-6e1886c956b9">
 
 #
 <div style="text-align: center;" align="center">
