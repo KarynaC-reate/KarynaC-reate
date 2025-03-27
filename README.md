@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="center">Olá 👋</h1>
+<h1 align="center">Olá, bem-vindo(a) ao meu perfil! 👋</h1>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Me chamo Karyna Carvalho de Brasília DF<br><br>- 📚 Estou atualmente aprendendo Técnico em Desenvolvimento de Sistemas ...<br>- ⚡ No meu tempo livre eu desenho; danço; aprendo teclado; leio.</p>
+<p align="left">Sou Karyna Carvalho de Brasília DF<br><br>- 📚 Estou atualmente aprendendo Técnico em Desenvolvimento de Sistemas ...<br>- ⚡ No meu tempo livre eu desenho; danço; aprendo teclado; leio.</p>
 
 ###
 
@@ -38,6 +38,12 @@
 ###
 
 <h3 align="left">🔥   Meu Status :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
 
 ###
 
