@@ -13,11 +13,17 @@
 ###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
 ###
 
-<h1 align="center">Olá! 😎</h1>
+<div align="center">
+</div>
+
+###
+
+<h1 align="center">Oláaa! 😎</h1>
 
 ###
 
@@ -60,13 +66,29 @@
 
 ###
 
-
-
 <img align="center" alt="" src="">
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
+###
+
+<img align="center" alt="" src="">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarynaC-reate/KarynaC-reate/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarynaC-reate/KarynaC-reate/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KarynaC-reate/KarynaC-reate/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
+
+
+
+
+
